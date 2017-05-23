@@ -1,8 +1,8 @@
-# nedb-node
+# nedb-browser
 
 > NeDB for the browser
 
-**This is a experimental work in progress. Not ready for use.**
+**This is an experimental work in progress. Not ready for use.**
 
 ## Installation
 
