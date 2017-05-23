@@ -17,7 +17,7 @@ TODO
 ## Complete Example
 
 ```js
-const Datastore = require('nedb-node');
+const Datastore = require('nedb-browser');
 
 const db = new Datastore('file://users.db');
 
